@@ -1,1 +1,1 @@
-# Cencus-Management-System
+# Census-Management-System
